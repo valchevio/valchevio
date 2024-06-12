@@ -2,8 +2,6 @@
 # Operating Specific Junk Files
 #-------------------------
 
-composer.lock
-
 # OS X
 .DS_Store
 .AppleDouble
