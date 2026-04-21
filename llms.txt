@@ -1,0 +1,12 @@
+# valchev.io
+
+> Personal portfolio of Antoan Valchev, a senior full stack developer and technical team lead specializing in scalable web platforms, cloud systems, and modern web architecture.
+
+## Home
+
+[Antoan Valchev — Senior Full Stack Developer & Technical Team Lead](https://valchev.io/): Personal portfolio of Antoan Valchev, a senior full stack developer and technical team lead specializing in scalable web platforms, cloud systems, and modern web architecture.
+
+## Bg
+
+[Антоан Вълчев — Старши Full Stack разработчик & Технически ръководител](https://valchev.io/bg/): Лично портфолио на Антоан Вълчев, старши full stack разработчик и технически ръководител, специализиран в мащабируеми уеб платформи, облачни системи и модерна уеб архитектура.
+
